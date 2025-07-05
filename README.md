@@ -26,6 +26,8 @@ Power BI
 3. Offer custom/print-on-demand T-shirts to leverage strong consumer interest.<br>
 4. Fix delays in "Unshipped" and "On the Way" to boost customer satisfaction to improve Shipping.<br>
 
+
+🔗 **LinkedIn Post Link:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7347302020036333568/ <br>
 🌐 𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: https://app.powerbi.com/view?r=eyJrIjoiMTYwYmVhZDEtNTJiMy00YzY1LWFhYmItNTM0MTYxZTNjODg1IiwidCI6ImY5NWJjNmFhLTcxNDYtNGNhZS1iYTNkLTQxZGYxMTNlMWI1MSJ9&pageName=bf779eb8e4e9532a500a
 
 
